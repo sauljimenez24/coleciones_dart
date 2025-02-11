@@ -1,4 +1,6 @@
 void main() {  
+print("saul Jimenez Rueda  Mat  22308051281222  gpo 6 J");
+
  List<int>numeros =[10, 20,30];
  print("Lista de numeros enteros :");
  print(numeros);
