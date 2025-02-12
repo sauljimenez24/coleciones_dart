@@ -1,2 +1,2 @@
-salida de datos 
+salida de datos
 ![alt text](image.png)
